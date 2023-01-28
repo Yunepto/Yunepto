@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cryptocurrency
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Blockchain Development
-- 📫 How to reach me yunepto@photonmail.com
+- 📫 How to reach me yunepto.business@gmail.com
 
 <!---
 Yunepto/Yunepto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
